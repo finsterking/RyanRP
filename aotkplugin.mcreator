@@ -1,0 +1,73 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SuperAntiKaijuWarMachineMechaDogoran",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_anti_kaiju_war_machine_mecha_dogoran"
+    },
+    {
+      "name": "Cards",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cards"
+    },
+    {
+      "name": "MadolcheCruffssant",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "madolche_cruffssant"
+    },
+    {
+      "name": "CardBack",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "card_back"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.madolche_cruffssant.name": "Madolche Cruffssant",
+      "item.card_back.name": "Card Back",
+      "item.super_anti_kaiju_war_machine_mecha_dogoran.name": "Super Anti-Kaiju War Machine Mecha-Dogoran",
+      "itemGroup.tabcards": "Cards"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "aotkplugin",
+    "modName": "AOTKPlugin",
+    "version": "1.0.0",
+    "author": "finst, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.aotkplugin",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -8,7 +8,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "super_anti_kaiju_war_machine_mecha_dogoran"
+      "registry_name": "super_anti_kaiju_war_machine_mecha_dogoran",
+      "path": "~/Cards"
     },
     {
       "name": "Cards",
@@ -17,7 +18,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cards"
+      "registry_name": "cards",
+      "path": "~/Menu"
     },
     {
       "name": "MadolcheCruffssant",
@@ -26,7 +28,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "madolche_cruffssant"
+      "registry_name": "madolche_cruffssant",
+      "path": "~/Cards"
     },
     {
       "name": "CardBack",
@@ -35,7 +38,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "card_back"
+      "registry_name": "card_back",
+      "path": "~/Menu"
     }
   ],
   "variable_elements": [],
@@ -50,7 +54,16 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Cards",
+        "children": []
+      },
+      {
+        "name": "Menu",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "aotkplugin",

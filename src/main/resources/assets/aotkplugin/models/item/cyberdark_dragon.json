@@ -1,0 +1,6 @@
+{
+  "parent": "aotkplugin:custom/40418351",
+  "textures": {
+    "1": "aotkplugin:blocks/40418351"
+  }
+}

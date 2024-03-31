@@ -40,16 +40,247 @@
       "ids": {},
       "registry_name": "card_back",
       "path": "~/Menu"
+    },
+    {
+      "name": "DogorantheMadFlameKaiju",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dogoranthe_mad_flame_kaiju",
+      "path": "~/Cards"
+    },
+    {
+      "name": "InsectQueen",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "insect_queen",
+      "path": "~/Cards"
+    },
+    {
+      "name": "CyberEndDragon",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyber_end_dragon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "ThunderDragonTitan",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thunder_dragon_titan",
+      "path": "~/Cards"
+    },
+    {
+      "name": "BlueEyesTwinBurstDragon",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_eyes_twin_burst_dragon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "GemKnightMasterDiamond",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gem_knight_master_diamond",
+      "path": "~/Cards"
+    },
+    {
+      "name": "ABCDragonBuster",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "abc_dragon_buster",
+      "path": "~/Cards"
+    },
+    {
+      "name": "TyrantBurstDragon",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tyrant_burst_dragon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "CyberdarkDragon",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyberdark_dragon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "MetalfoesAdamante",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metalfoes_adamante",
+      "path": "~/Cards"
+    },
+    {
+      "name": "FullmetalfoesAlkahest",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fullmetalfoes_alkahest",
+      "path": "~/Cards"
+    },
+    {
+      "name": "RedNovaDragon",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_nova_dragon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "DragunityKnightAscalon",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragunity_knight_ascalon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "CrystalClearWingSynchroDragon",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_clear_wing_synchro_dragon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "CrystalWingSynchroDragon",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_wing_synchro_dragon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "GraydleDragon",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graydle_dragon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "StardustSparkDragon",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stardust_spark_dragon",
+      "path": "~/Cards"
+    },
+    {
+      "name": "SuperdreadnoughtRailCannonGustavMax",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "superdreadnought_rail_cannon_gustav_max",
+      "path": "~/Cards"
+    },
+    {
+      "name": "CyberDragonInfinity",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyber_dragon_infinity",
+      "path": "~/Cards"
+    },
+    {
+      "name": "CyberDragonNova",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyber_dragon_nova",
+      "path": "~/Cards"
+    },
+    {
+      "name": "TimeThiefRedoer",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "time_thief_redoer",
+      "path": "~/Cards"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.madolche_cruffssant.name": "Madolche Cruffssant",
-      "item.card_back.name": "Card Back",
+      "item.crystal_wing_synchro_dragon.name": "Crystal Wing Synchro Dragon",
       "item.super_anti_kaiju_war_machine_mecha_dogoran.name": "Super Anti-Kaiju War Machine Mecha-Dogoran",
-      "itemGroup.tabcards": "Cards"
+      "item.blue_eyes_twin_burst_dragon.name": "Blue-Eyes Twin Burst Dragon",
+      "itemGroup.tabcards": "Extra Cards",
+      "item.madolche_cruffssant.name": "Madolche Cruffssant",
+      "item.cyber_dragon_infinity.name": "Cyber Dragon Infinity",
+      "item.gem_knight_master_diamond.name": "Gem-Knight Master Diamond",
+      "item.fullmetalfoes_alkahest.name": "Fullmetalfoes Alkahest",
+      "item.red_nova_dragon.name": "Red Nova Dragon",
+      "item.time_thief_redoer.name": "Time Thief Redoer",
+      "item.stardust_spark_dragon.name": "Stardust Spark Dragon",
+      "item.metalfoes_adamante.name": "Metalfoes Adamante",
+      "item.graydle_dragon.name": "Graydle Dragon",
+      "item.crystal_clear_wing_synchro_dragon.name": "Crystal Clear Wing Synchro Dragon",
+      "item.cyber_end_dragon.name": "Cyber End Dragon",
+      "item.superdreadnought_rail_cannon_gustav_max.name": "Superdreadnought Rail Cannon Gustav Max",
+      "item.insect_queen.name": "Insect Queen",
+      "item.dragunity_knight_ascalon.name": "Dragunity Knight - Ascalon",
+      "item.cyber_dragon_nova.name": "Cyber Dragon Nova",
+      "item.thunder_dragon_titan.name": "Thunder Dragon Titan",
+      "item.dogoranthe_mad_flame_kaiju.name": "Dogoran, the Mad Flame Kaiju",
+      "item.abc_dragon_buster.name": "ABC-Dragon Buster",
+      "item.card_back.name": "Card Back",
+      "item.cyberdark_dragon.name": "Cyberdark Dragon",
+      "item.tyrant_burst_dragon.name": "Tyrant Burst Dragon"
     }
   },
   "foldersRoot": {
